@@ -1,7 +1,8 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Samie+Al+Fauzan+👋;Informatics+Student;Web+%26+Android+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Samie%20Al%20Fauzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hallo,+saya+Samie+Al+Fauzan+👋;Mahasiswa+Teknik+Informatika;Web+%26+Android+Developer;Senang+belajar+dan+membangun+aplikasi" alt="Typing SVG" />
 
 Universitas Muhammadiyah Sukabumi · Indonesia 🇮🇩
 
@@ -42,17 +43,10 @@ Mahasiswa Teknik Informatika yang senang membangun aplikasi web dan Android dari
 | [**Tugas Intent & Dialog**](https://github.com/samiealfauzan184-dotcom/Tugas-Intent-Dialog) | Latihan Intent dan Dialog di Android | `Kotlin` |
 | [**Basic HTML CSS JS**](https://github.com/samiealfauzan184-dotcom/basic-html-css-js) | Dasar-dasar HTML, CSS, dan JavaScript | `HTML` `CSS` `JS` |
 
-### 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samiealfauzan184-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiealfauzan184-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 <div align="center">
 
 ⭐ Kalau ada proyek yang berguna, boleh kasih star ya!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" alt="Footer" />
 
 </div>
