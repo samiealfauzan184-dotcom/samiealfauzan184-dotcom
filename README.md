@@ -1,38 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Samie%20Al%20Fauzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,45:3b1d8f,100:00e5ff&height=230&section=header&text=SAMIE%20AL%20FAUZAN&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=00e5ff&strokeWidth=1&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Web%20%26%20Android%20Developer&descSize=18&descAlignY=60" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hallo,+saya+Samie+Al+Fauzan+👋;Mahasiswa+Teknik+Informatika;Web+%26+Android+Developer;Senang+belajar+dan+membangun+aplikasi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+SAMIE+AL+FAUZAN;MAHASISWA+TEKNIK+INFORMATIKA;WEB+%26+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
 
-Universitas Muhammadiyah Sukabumi · Indonesia 🇮🇩
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiealfauzan184@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiealfauzan184-dotcom)
+![UMMI](https://img.shields.io/badge/UMMI-INFORMATICS-7C4DFF?style=for-the-badge&labelColor=0a0f24)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-00E5FF?style=for-the-badge&labelColor=0a0f24)
 
-![Views](https://komarev.com/ghpvc/?username=samiealfauzan184-dotcom&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f24)](mailto:samiealfauzan184@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-samiealfauzan184--dotcom-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f24)](https://github.com/samiealfauzan184-dotcom)
+
+![Views](https://komarev.com/ghpvc/?username=samiealfauzan184-dotcom&style=for-the-badge&color=7C4DFF&labelColor=0a0f24&label=VISITORS)
 
 </div>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=7C4DFF&width=320&height=36&repeat=false&lines=%3E_+ABOUT+ME" alt="About" />
 
-### 👨‍💻 Tentang Saya
+```yaml
+name:      Samie Al Fauzan
+role:      Informatics Student
+campus:    Universitas Muhammadiyah Sukabumi
+location:  Indonesia
+focus:
+  - Web Development     # PHP, Laravel, Next.js, TypeScript
+  - Android Development # Kotlin, Jetpack Compose
+  - Database            # MySQL, PostgreSQL, MongoDB
+status:    Open to internship & collaboration
+```
 
-Mahasiswa Teknik Informatika yang senang membangun aplikasi web dan Android dari dasar sampai jadi.
-
-- 🌐 **Web:** PHP, Laravel, Next.js, TypeScript
-- 📱 **Mobile:** Kotlin & Jetpack Compose
-- 🗄️ **Database:** MySQL, PostgreSQL, MongoDB
-- 🎯 Terbuka untuk **magang dan kolaborasi**
-
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=00E5FF&width=360&height=36&repeat=false&lines=%3E_+TECH+STACK" alt="Tech Stack" />
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,kotlin,androidstudio,nextjs,ts,tailwind,mysql,postgres,mongodb,git,github,vscode&perline=8)
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,kotlin,androidstudio,nextjs,ts,tailwind,mysql,postgres,mongodb,git,github,vscode&perline=8&theme=dark)
 
 </div>
 
-### 📌 Proyek
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=7C4DFF&width=340&height=36&repeat=false&lines=%3E_+PROJECTS" alt="Projects" />
 
 | Proyek | Deskripsi | Stack |
 |:--|:--|:--|
@@ -45,8 +51,8 @@ Mahasiswa Teknik Informatika yang senang membangun aplikasi web dan Android dari
 
 <div align="center">
 
-⭐ Kalau ada proyek yang berguna, boleh kasih star ya!
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=520&height=30&lines=THANKS+FOR+VISITING+MY+PROFILE;FEEL+FREE+TO+COLLABORATE" alt="Footer text" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,55:3b1d8f,100:0a0f24&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
