@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,45:3b1d8f,100:00e5ff&height=230&section=header&text=SAMIE%20AL%20FAUZAN&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=00e5ff&strokeWidth=1&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Web%20%26%20Android%20Developer&descSize=18&descAlignY=60" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+SAMIE+AL+FAUZAN;MAHASISWA+TEKNIK+INFORMATIKA;WEB+%26+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,45:3b1d8f,100:00e5ff&height=230&section=header&text=SAMIE%20AL%20FAUZAN&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=00e5ff&strokeWidth=1&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Web%20and%20Android%20Developer&descSize=18&descAlignY=60" width="100%" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+SAMIE+AL+FAUZAN;MAHASISWA+TEKNIK+INFORMATIKA;WEB+AND+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
 
 <br/>
 
