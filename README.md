@@ -47,6 +47,7 @@ status:    Open to internship & collaboration
 | [**UTS Pemrograman Web**](https://github.com/samiealfauzan184-dotcom/UTSPemrogramanWEB) | Proyek UTS mata kuliah Pemrograman Web | `PHP` |
 | [**Tugas Intent & Dialog**](https://github.com/samiealfauzan184-dotcom/Tugas-Intent-Dialog) | Latihan Intent dan Dialog di Android | `Kotlin` |
 | [**Basic HTML CSS JS**](https://github.com/samiealfauzan184-dotcom/basic-html-css-js) | Dasar-dasar HTML, CSS, dan JavaScript | `HTML` `CSS` `JS` |
+| [**Diary-App**](https://github.com/samiealfauzan184-dotcom/diary-app.git) | PENGEMBANGAN APLIKASI DIARY APP 
 
 <div align="center">
 
